@@ -1,3 +1,18 @@
 .body{
     background-color: black;
+    color: white;
+    a{
+        color: white;
+    }
+}
+.a{
+    font-size: 10vw;
+    text-decoration: none;
+}
+.a2{
+    color: yellow;
+    text-align: center;
+}
+.color{
+    color: blue;
 }
